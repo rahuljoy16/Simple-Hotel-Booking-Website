@@ -1,2 +1,2 @@
-# Simple-Hotel-Booking-Website
-A basic hotel booking website 
+## General Info
+A basic hotel booking website made using HTML & CSS
